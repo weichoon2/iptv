@@ -1,5 +1,5 @@
 /**
- * live2vod_cwc.js
+ * live2vod-cwc.js
  * 配置设置 {"key":"直播转点播","name":"直播转点播","type":3,"api":"./live2vod/live2vod_cwc.js","searchable":0,"quickSearch":0,"filterable":0,"timeout": 30, "ext":"./live2vod/live.json;showHomeVod=0"}
 [
 {"name":"relative_path","url":"./mv.txt"},
