@@ -7,10 +7,6 @@
 {"name": "m3u",     "url": "www.abc.com/live.m3u"}
 ]
  * ext文件格式为json列表,name,url参数
-[
-    {"name":"纪录","url":"./documentary.txt"},
-    {"name":"Demo","url":"./demo.txt"}
-]
  */
 const request_timeout = 5000;
 const VERSION = 'live2vod-cwc-20240628';
