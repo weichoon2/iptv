@@ -14,7 +14,7 @@
             "key": "直播转点播",
             "name": "直播转点播",
             "type": 3,
-            "searchable": 1,
+            "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
             "timeout": 30,
@@ -22,7 +22,7 @@
                 "type": "rect",
                 "ratio": 1.433
             },
-            "api": "./live2vod/live2cms.js",
+            "api": "./live2vod/live2vod-cwc.js",
             "ext": "./live2vod/live.json;showHomeVod=0"
         },
         {
