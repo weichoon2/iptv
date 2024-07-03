@@ -1,9 +1,0 @@
-Demo,#genre#
-The Black 4K HDR 60fps/2020,https://www.youtube.com/watch?v=njX2bu-_Vw4
-Ink Art 4K HDR 60fps/2021,https://www.youtube.com/watch?v=WO2b03Zdu4Q
-Redwoods 8K HDR 60fps/2021,https://www.youtube.com/watch?v=EJr3uAQwGek
-Macro HDR 4K 60fps/2019,https://www.youtube.com/watch?v=YJ340QYPSzA
-Best HDR Demo For TV/2018,https://www.youtube.com/watch?v=HyB_qWcsIyE
-12K HDR Video Ultra HD 240fps/2023,https://www.youtube.com/watch?v=fCVm5U2ob8U
-4K HDR 60fps/2023,https://www.youtube.com/watch?v=TA1jS07SfeU
-Samsung 4K Demo QLED/2022,https://www.youtube.com/watch?v=x91MPoITQ3I
