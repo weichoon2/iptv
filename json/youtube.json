@@ -2,23 +2,23 @@
   "class": [
     {
       "type_name": "新闻",
-      "type_id": "新闻"
+      "type_id": "news"
     },
     {
       "type_name": "音乐",
-      "type_id": "音乐"
+      "type_id": "music"
     },
     {
       "type_name": "纪录片",
-      "type_id": "纪录片"
+      "type_id": "documentary"
     },
     {
       "type_name": "美食",
-      "type_id": "美食"
+      "type_id": "food"
     }
   ],
   "filters": {
-    "新闻": [
+    "news": [
       {
         "key": "duration",
         "name": "時長",
@@ -62,9 +62,19 @@
             "v": "八度空间华语新闻"
           }
         ]
+      },
+      {
+        "key": "playlist",
+        "name": "播放列表",
+        "value": [
+          {
+            "n": "播放列表",
+            "v": "Y"
+          }
+        ]
       }
     ],
-    "音乐": [
+    "music": [
       {
         "key": "duration",
         "name": "時長",
@@ -156,7 +166,7 @@
         ]
       }
     ],
-    "纪录片": [
+    "documentary": [
       {
         "key": "duration",
         "name": "時長",
@@ -220,7 +230,7 @@
         ]
       }
     ],
-    "美食": [
+    "food": [
       {
         "key": "duration",
         "name": "時長",
