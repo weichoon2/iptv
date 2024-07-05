@@ -120,32 +120,32 @@ World War Z/2013,https://vip.ffzy-play7.com/20230219/15222_3a7feacc/index.m3u8
 X-Men/2000,https://vip.ffzy-play7.com/20221126/7059_4093eddf/index.m3u8
 
 动作,#genre#
-A计划/1983,https://m3u.haiwaikan.com/xm3u8/325f57a4dbd33118c2a88ea2ece332dcb6c04514f30d7925f22abff4a0ab01cf9921f11e97d0da21.m3u8
-A计划续集(国)/1987,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
-暗战/1999,https://m3u.haiwaikan.com/xm3u8/bdf440a6be533e1cc0e8359416b9813fee16d0ed4876df3552192f8ba3c6ab4e9921f11e97d0da21.m3u8
-飞龙猛将/1988,https://m3u.haiwaikan.com/xm3u8/71bc0a922294cc11185232e0d0e545451d1021bcd4716959a7388b565be3d4299921f11e97d0da21.m3u8
-飞鹰计划/1991,https://m3u.haiwaikan.com/xm3u8/fa3fc95d76e9bd472f3335719e2560f03f51b50f3967fa1f5c21179cdaa110ae9921f11e97d0da21.m3u8
-福星高照/1985,https://m3u.haiwaikan.com/xm3u8/fb81629823c58d3e11d92ba1ae45fdd57fcc87df34a5fdddeaa4becb60671b669921f11e97d0da21.m3u8
-功夫/2004,https://m3u.haiwaikan.com/xm3u8/16f61a6c4a49fadb4ad7363650c46a4221b9d7142e6fa585a2f0006bcdb485fb9921f11e97d0da21.m3u8
+A计划/1983,https://api.heimuer.app/play/e11f70e0a51d4872a53f2599e0dd94ff.m3u8
+A计划续集/1987,https://api.heimuer.app/play/c858846ddd76490797fef517bf322097.m3u8
+暗战/1999,https://api.heimuer.app/play/98a4d7f89a4844a49096237cdd3fd028.m3u8
+飞龙猛将/1988,https://api.heimuer.app/play/08432a1ae7164423884db872b197062a.m3u8
+飞鹰计划/1991,https://api.heimuer.app/play/ca84357db38a4eceb1031f4b49a028fe.m3u8
+福星高照/1985,https://api.heimuer.app/play/3e3bddd209324972b092b69ca24c096a.m3u8
+功夫(国)/2004,https://api.heimuer.app/play/17054298de614a82904ae8cdea914fe8.m3u8
 孤胆特工/2010,https://vip.ffzy-play6.com/20221126/8411_3fa5605e/index.m3u8
-古今大战秦俑情/1989,https://m3u.haiwaikan.com/xm3u8/2c950dbaf75d4f71ea2b38e365217592a14322626563579f297ad9f4792a90ff9921f11e97d0da21.m3u8
-黄飞鸿/1991,https://m3u.haiwaikan.com/xm3u8/051c62a0a1962176d9cd7a27d93917d3db58565d782bca297f99bae9852683289921f11e97d0da21.m3u8
-黄飞鸿之二: 男儿当自强/1992,https://m3u.haiwaikan.com/xm3u8/d618b665845eb1b94b019938a55e49f1e858b06e604902e30353d8f8f987ea049921f11e97d0da21.m3u8
-黄飞鸿之三: 狮王争霸/1992,https://m3u.haiwaikan.com/xm3u8/f3b817c8e7de8db4016c8d5b9fb70449d86fc72bee6b758de2d4bdd14fc676389921f11e97d0da21.m3u8
+古今大战秦俑情/1989,https://api.heimuer.app/play/1c39d65b7ee644c2a6062fe15097fee8.m3u8
+黄飞鸿/1991,https://api.heimuer.app/play/3aa3dd64621a401a8a7057c50b15e326.m3u8
+黄飞鸿之二: 男儿当自强/1992,https://api.heimuer.app/play/0a1410fa9d4c436d8597e3aef1040bb6.m3u8
+黄飞鸿之三: 狮王争霸/1992,https://api.heimuer.app/play/8e798b925ebb4abbb6078d37020113b3.m3u8
 快餐车/1984,https://s2.fsvod1.com/20220226/yZp3TEs9/index.m3u8
 龙兄虎弟/1987,https://s1.fsvod1.com/20220412/bwGNqGyY/index.m3u8
 魔女/2018,https://vip.ffzy-play7.com/20221227/10061_4bb4b05e/index.m3u8
-奇迹/1989,https://m3u.haiwaikan.com/xm3u8/928af46f76feab33667e73f59ddbba4a48777ef6cef70b7cd477ea8944a49a6e9921f11e97d0da21.m3u8
+奇迹/1989,https://api.heimuer.app/play/d87e9b06652943a3b018c910984cf97c.m3u8
 枪火/1999,https://vip.ffzy-play7.com/20221227/10065_b09200bc/index.m3u8
 少林足球/2001,https://vip.ffzy-online.com/20221231/43323_e4a6f390/index.m3u8
 生死谍变/1999,https://vip.ffzy-play7.com/20221225/9738_355a29a2/index.m3u8
 铁雨/2017,https://vip.ffzy-play7.com/20221225/9740_19e285d4/index.m3u8
-无间道/2002,https://m3u.haiwaikan.com/xm3u8/2962cf45128e26a546e9e9393c898b24d1d7b633aa4386d44afef9fbf432d0a69921f11e97d0da21.m3u8
-无间道2/2003,https://m3u.haiwaikan.com/xm3u8/77b80efce34236413e3f5fcca3e7c75bcb03ad278239a9cb614e0cb82e0c77419921f11e97d0da21.m3u8
-无间道3/2003,https://m3u.haiwaikan.com/xm3u8/20a465b23cd3f2cf219d852ae5543e8ce11f5ca90f52851fc086680852cbc46c9921f11e97d0da21.m3u8
+无间道/2002,https://api.heimuer.app/play/c99c2c99df3e41c4afef5daa3b75f846.m3u8
+无间道2/2003,https://api.heimuer.app/play/4968f4a62d494b358e025ef472e0b710.m3u8
+无间道3/2003,https://api.heimuer.app/play/1c8cbc2e2eae4dc59e18cfa6261ffd26.m3u8
 新世界/2013,https://vip.ffzy-online2.com/20230418/33169_fdb1818c/index.m3u8
 英雄/2002,https://vip.ffzy-play7.com/20221227/9993_9681b67b/index.m3u8
-影/2018,https://m3u.haiwaikan.com/xm3u8/4679895568051749c40d381c2368b34327321523fa68e8901930772d3fc760b79921f11e97d0da21.m3u8
+影/2018,https://1080p.huyall.com/play/QbYEm4Yb/index.m3u8
 Air Force One/1997,https://vip.ffzy-play7.com/20230226/16531_1433247f/index.m3u8
 Broken Arrow/1996,https://vip.ffzy-play6.com/20221129/9312_8373586c/index.m3u8
 Collateral Damage/2002,https://vip.ffzy-play6.com/20221022/1129_3a7672b8/index.m3u8
@@ -162,25 +162,25 @@ Heat/1995,https://vip.ffzy-play7.com/20221209/9036_7aadd5c6/index.m3u8
 Hitman/2007,https://vip.ffzy-play7.com/20221230/10449_28271433/index.m3u8
 Indiana Jones: Raiders Of The Lost Ark/1981,https://vip.ffzy-play6.com/20221128/8896_2abf0871/index.m3u8
 Indiana Jones: The Temple Of Doom/1984,https://vip.ffzy-play7.com/20221115/4659_29a50c0c/index.m3u8
-Indiana Jones: The Last Crusade/1989,https://m3u.haiwaikan.com/xm3u8/ef4abe5d911284f100aee9515972d855a09aa482219ee2fb444ac59f9908a2859921f11e97d0da21.m3u8
-Lara Croft: Tomb Raider/2001,https://m3u.haiwaikan.com/xm3u8/9333d0916c6cfec963ae839402871239a2ed5dac3a7c0dcff35f72683cfb91ba9921f11e97d0da21.m3u8
-London Has Fallen/2016,https://m3u.haiwaikan.com/xm3u8/1a59842c02d7eb562cb8bccf319b1919f9c5d62b7acf70b8e183b07fda48e9109921f11e97d0da21.m3u8
+Indiana Jones: The Last Crusade/1989,https://api.heimuer.app/play/fd57f87bc89149858ed3262f41f6b2cf.m3u8
+Lara Croft: Tomb Raider/2001,https://api.heimuer.app/play/31660056aa2b4a348bd7677d78ee40d5.m3u8
+London Has Fallen/2016,https://api.heimuer.app/play/f31a7c2d9e604780b12ee50150f53ef7.m3u8
 Mission Impossible/1996,https://vip.ffzy-play6.com/20221112/6202_99bdb880/index.m3u8
 Outbreak/1995,https://vip1.lz-cdn1.com/20220527/6803_e404bbd8/index.m3u8
 Poseidon/2006,https://vip.ffzy-play6.com/20221025/1933_e577d9c5/index.m3u8
-Prince Of Persia: The Sands Of Time/2010,https://m3u.haiwaikan.com/xm3u8/ea5a1732fbb7ed234759a907505b08e286a245964c56dc45b077bdcf7a3f731b9921f11e97d0da21.m3u8
+Prince Of Persia: The Sands Of Time/2010,https://api.heimuer.app/play/173569d099b14624834c66407aeacea2.m3u8
 Rambo 1/1982,https://vip.ffzy-play7.com/20221115/4435_322a7ddb/index.m3u8
 Rambo 2/1985,https://vip.ffzy-play7.com/20221115/4655_2166eb27/index.m3u8
 Rambo 3/1988,https://vip.ffzy-play7.com/20221115/4437_1ac34940/index.m3u8
 Ransom/1996,https://vip.ffzy-online1.com/20230627/41802_62eb5bee/index.m3u8
 Salt/2010,https://vip.ffzy-play7.com/20221231/10563_e4439114/index.m3u8
 San Andreas/2015,https://vip.ffzy-play6.com/20221031/3062_50c7e519/index.m3u8
-Shooter/2007,https://m3u.haiwaikan.com/xm3u8/670287761b85a1e0bc47ad53c7835d13e86a080eae1e5be94b5c20efcd7dbed89921f11e97d0da21.m3u8
-Speed/1994,https://m3u.haiwaikan.com/xm3u8/5552c94457dd5de28bcc32c51fd90c3a988662ab1e73098794e2ee1054951f8e9921f11e97d0da21.m3u8
+Shooter/2007,https://api.heimuer.app/play/3cd9a74db37d44f4a6e4fee54565b7c7.m3u8
+Speed/1994,https://api.heimuer.app/play/0133b511b6b941a3b20afb6cb54b3dbc.m3u8
+Speed 2/1997,https://api.heimuer.app/play/aef1ae3b31b1463fbf45fd276e0781cf.m3u8
 The Equalizer/2014,https://vip.ffzy-play2.com/20230503/46820_432e28d4/index.m3u8
 The Equalizer 2/2018,https://vip.ffzy-online1.com/20230614/41406_0e9805fd/index.m3u8
 The Fugitive/1993,https://vip.ffzy-play6.com/20221113/6742_a66a51a1/index.m3u8
-The Guardians/2012,https://m3u.haiwaikan.com/xm3u8/570e35d5f04c001ec3cab8235fd7ee4bde38e709b8de8e2e9ad98588ded3440e9921f11e97d0da21.m3u8
 The Lord Of The Rings: The Fellowship Of The Ring/2001,https://vip.ffzy-play7.com/20230411/22167_a385d245/index.m3u8
 The Lord Of The Rings: The Two Towers/2002,https://vip.ffzy-play7.com/20221127/7286_672b6ffa/index.m3u8
 The Lord Of The Rings: The Return Of The King/2003,https://vip.ffzy-play6.com/20221017/19_8752ff61/index.m3u8
@@ -191,35 +191,35 @@ The Towering Inferno/1974,https://vip.ffzy-play7.com/20221228/10188_5960be60/ind
 Top Gun/1986,https://vip.ffzy-play7.com/20221115/4629_5edc1361/index.m3u8
 Top Gun: Maverick/2022,https://vip.ffzy-play7.com/20221224/9686_b1b41a2a/index.m3u8
 Twister/1996,https://vip.ffzy-play7.com/20221129/7676_f9ea52bc/index.m3u8
-Wanted/2008,https://m3u.haiwaikan.com/xm3u8/e1e94b005f8ba1aa69e45844ced9bb0c33a639d25a839b802890a4a9ff85e97e9921f11e97d0da21.m3u8
-White House Down/2013,https://m3u.haiwaikan.com/xm3u8/5ec65a3f0c23acddb593a3a0b58c4f8e0778f00ad4ddaa33676954c0cc7e243f9921f11e97d0da21.m3u8
-XXX/2002,https://m3u.haiwaikan.com/xm3u8/32019c645e48a78893806b6933e4dce739288b1e96ca796c7e831592c08dee949921f11e97d0da21.m3u8
-XXX: State Of The Union/2005,https://m3u.haiwaikan.com/xm3u8/30f85800f728e4b3476fe1b1b862e8a18b50411287c43e9198cd5a7e129fd9789921f11e97d0da21.m3u8
+Wanted/2008,https://api.heimuer.app/play/8b52464950514faea1631cdb217b8039.m3u8
+White House Down/2013,https://api.heimuer.app/play/c99e1fbb732f47e4a743325d44b02d39.m3u8
+XXX/2002,https://api.heimuer.app/play/731f5741eabb4e89b4d95ffeb998162a.m3u8
+XXX: State Of The Union/2005,https://api.heimuer.app/play/b7fe96d89b654831848db0b3010b597c.m3u8
 
 剧情,#genre#
-搭错车/1983,https://m3u.haiwaikan.com/xm3u8/6dac9abf928c40b4ceda34f3fd0cdd10ce9d1266d24fe77311f5dac14e22eb2b9921f11e97d0da21.m3u8
-Forrest Gump/1994,https://m3u.haiwaikan.com/xm3u8/80cd0e539fd97c59d3f99ad4cc08dd0f331bcfd2401b82b92bd69802384595849921f11e97d0da21.m3u8
+搭错车/1983,https://api.heimuer.app/play/68c85e022a7046ae8c3e87c0cec3e29b.m3u8
+Forrest Gump/1994,https://api.heimuer.app/play/b23333a9ed174e30b1f903cc3befb702.m3u8
 I Am Sam/2001,https://vip.ffzy-play6.com/20221019/117_20da0347/index.m3u8
 Lawrence Of Arabia/1962,https://vip.ffzy-play7.com/20230329/20229_59ce5b40/index.m3u8
-Titanic/1997,https://m3u.haiwaikan.com/xm3u8/66d2d0e079e5ea409198ec1e32c3cb314d713006fb998b599d57224cf40800629921f11e97d0da21.m3u8
+Titanic/1997,https://api.heimuer.app/play/2345f01483f04c28bd410fe088393ea6.m3u8
 The Bear/1988,https://vip.ffzy-play7.com/20230327/19989_8d6f6498/index.m3u8
 The Shawshank Redemption/1994,https://cdn2.yzzy-online.com/20220428/16604_735a940e/index.m3u8
-The Sound of Music/1965,https://m3u.haiwaikan.com/xm3u8/ff19a4c7542cbae34d7ede661ed6ddbc77919976990c9976308ea8d1d43748459921f11e97d0da21.m3u8
+The Sound of Music/1965,https://api.heimuer.app/play/91d210e622ad400db557d602c684f4d0.m3u8
 The Truman Show/1998,https://vip.ffzy-play6.com/20221023/1317_2fc42786/index.m3u8
 
 动画,#genre#
 冲破黑暗/2021,https://www.youtube.com/watch?v=cdjCiICXXM8
 Father And Daughter/2000,https://www.youtube.com/watch?v=Oo4KXZVApsQ
 Green Light/2016,https://t-cdn.kaiyanapp.com/ee52968bbc7cabb8bebe75bdc2b5c92e_1280x720.mp4
-Ice Age(爱死机S1E16)/2019,https://m3u.haiwaikan.com/xm3u8/1982196fe43ceb981e51315880cf4814eed274b4dab161eb55d4fb9a6b05c2529921f11e97d0da21.m3u8
-In Vaulted Halls Entombed(爱死机S3E8)/2022,https://m3u.haiwaikan.com/xm3u8/e519f45ba5f658e815deb16e7f9af478d5c1e5499178e1b330936aa09b0c8c4b9921f11e97d0da21.m3u8
+Ice Age(爱死机S1E16)/2019,https://api.heimuer.app/play/c7fff2f1f521483786bf71e651739b44.m3u8
+In Vaulted Halls Entombed(爱死机S3E8)/2022,https://api.heimuer.app/play/4476779c29ab440eba8bd19234bd52bf.m3u8
 Late Afternoon/2017,https://t-cdn.kaiyanapp.com/1545881271693_d3dbab07.mp4
-Life Hutch(爱死机S2E7)/2021,https://m3u.haiwaikan.com/xm3u8/6af866bc52e7bea70c4e0612c8f4023af796ccd719044fd9ac469ef8db30a3cb9921f11e97d0da21.m3u8
-Lucky 13(爱死机S1E13)/2019,https://m3u.haiwaikan.com/xm3u8/9737da91392ca3535b8fd02e5d5d06407eefea4849dd3f90e9815735291054e79921f11e97d0da21.m3u8
-Night Of The Mini Dead(爱死机S3E4)/2022,https://m3u.haiwaikan.com/xm3u8/658aa7c7291a58d30976e2cd691ebe85f9c1b32a1d49506761c1407325c5cb1a9921f11e97d0da21.m3u8
+Life Hutch(爱死机S2E7)/2021,https://api.heimuer.app/play/4725a6b443904dbc8e0e6dd359b7d1b1.m3u8
+Lucky 13(爱死机S1E13)/2019,https://api.heimuer.app/play/a6ae4b539f004073be1e228b904231f4.m3u8
+Night Of The Mini Dead(爱死机S3E4)/2022,https://api.heimuer.app/play/9d73f25f667041b8acf00822645ca743.m3u8
 Piper/2016,https://www.youtube.com/watch?v=e7v2zDZBf6g
-Pop Squad(爱死机S2E3)/2021,https://m3u.haiwaikan.com/xm3u8/82a043ff743b0b556404e4bebefec7102443d2ed2e938d977c1bbfbb82656a059921f11e97d0da21.m3u8
-The Secret War(爱死机S1E18)/2019,https://m3u.haiwaikan.com/xm3u8/8daa965dc1051eca190f8bc8d408618d1cf32aeff9c78e31dbd8f65bbc8251d59921f11e97d0da21.m3u8
+Pop Squad(爱死机S2E3)/2021,https://api.heimuer.app/play/4ec4ea8da1de438c818be4f0e2d1e207.m3u8
+The Secret War(爱死机S1E18)/2019,https://api.heimuer.app/play/4641745c32d24eba8aba04575f9bd2a4.m3u8
 
 James Bond,#genre#
 Dr. No/1962,https://vip.ffzy-play7.com/20221207/8316_ac9d27fe/index.m3u8
