@@ -1,4 +1,4 @@
-科幻,#genre#
+科幻$$$http://cwc.serv00.net/wallpaper/poster/science-fiction.jpg,#genre#
 釜山行/2016,https://vip.ffzy-play7.com/20221231/10520_3d5b9613/index.m3u8
 活着/2020,https://api.heimuer.app/play/bdfb87c9134444619c90a1a9afce0230.m3u8
 急冻奇侠/1989,https://api.heimuer.app/play/4526e014e7524c3bbc43c14603321b56.m3u8
@@ -119,7 +119,7 @@ Waterworld/1995,https://vip.ffzy-play6.com/20221112/6171_70ba8523/index.m3u8
 World War Z/2013,https://vip.ffzy-play7.com/20230219/15222_3a7feacc/index.m3u8
 X-Men/2000,https://vip.ffzy-play7.com/20221126/7059_4093eddf/index.m3u8
 
-动作,#genre#
+动作$$$http://cwc.serv00.net/wallpaper/poster/action.jpg,#genre#
 A计划/1983,https://api.heimuer.app/play/e11f70e0a51d4872a53f2599e0dd94ff.m3u8
 A计划续集/1987,https://api.heimuer.app/play/c858846ddd76490797fef517bf322097.m3u8
 暗战/1999,https://api.heimuer.app/play/98a4d7f89a4844a49096237cdd3fd028.m3u8
@@ -196,7 +196,7 @@ White House Down/2013,https://api.heimuer.app/play/c99e1fbb732f47e4a743325d44b02
 XXX/2002,https://api.heimuer.app/play/731f5741eabb4e89b4d95ffeb998162a.m3u8
 XXX: State Of The Union/2005,https://api.heimuer.app/play/b7fe96d89b654831848db0b3010b597c.m3u8
 
-剧情,#genre#
+剧情$$$http://cwc.serv00.net/wallpaper/poster/drama.jpg,#genre#
 搭错车/1983,https://api.heimuer.app/play/68c85e022a7046ae8c3e87c0cec3e29b.m3u8
 Forrest Gump/1994,https://api.heimuer.app/play/b23333a9ed174e30b1f903cc3befb702.m3u8
 I Am Sam/2001,https://vip.ffzy-play6.com/20221019/117_20da0347/index.m3u8
@@ -207,7 +207,7 @@ The Shawshank Redemption/1994,https://cdn2.yzzy-online.com/20220428/16604_735a94
 The Sound of Music/1965,https://api.heimuer.app/play/91d210e622ad400db557d602c684f4d0.m3u8
 The Truman Show/1998,https://vip.ffzy-play6.com/20221023/1317_2fc42786/index.m3u8
 
-动画,#genre#
+动画$$$http://cwc.serv00.net/wallpaper/poster/animation.jpg,#genre#
 冲破黑暗/2021,https://www.youtube.com/watch?v=cdjCiICXXM8
 Father And Daughter/2000,https://www.youtube.com/watch?v=Oo4KXZVApsQ
 Green Light/2016,https://t-cdn.kaiyanapp.com/ee52968bbc7cabb8bebe75bdc2b5c92e_1280x720.mp4
@@ -221,7 +221,7 @@ Piper/2016,https://www.youtube.com/watch?v=e7v2zDZBf6g
 Pop Squad(爱死机S2E3)/2021,https://api.heimuer.app/play/4ec4ea8da1de438c818be4f0e2d1e207.m3u8
 The Secret War(爱死机S1E18)/2019,https://api.heimuer.app/play/4641745c32d24eba8aba04575f9bd2a4.m3u8
 
-James Bond,#genre#
+James Bond$$$http://cwc.serv00.net/wallpaper/poster/james-bond.jpg,#genre#
 Dr. No/1962,https://vip.ffzy-play7.com/20221207/8316_ac9d27fe/index.m3u8
 From Russia With Love/1963,https://vip.ffzy-play7.com/20221207/8315_fd5b9972/index.m3u8
 Goldfinger/1964,https://vip.ffzy-online2.com/20230519/37603_6cd5c467/index.m3u8

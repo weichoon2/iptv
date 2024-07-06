@@ -1,4 +1,4 @@
-家的味道HomeTaste,#genre#
+家的味道HomeTaste$$$https://yt3.googleusercontent.com/ytc/AIdro_lkVprq79Kjlm37otP_jg2ztwMZkZdIOpPUTwwuw8G3zw=s160-c-k-c0x00ffffff-no-rj,#genre#
 KFC炸鸡在家自己做,https://www.youtube.com/watch?v=U55X1BxR_Sk
 KFC同款黑椒土豆泥,https://www.youtube.com/watch?v=fEUDnCtQ36k
 KFC的Coleslaw,https://www.youtube.com/watch?v=3DpToQv63xI
@@ -645,7 +645,7 @@ ABC汤,https://www.youtube.com/watch?v=66Mj1ufqWok
 懒人披萨,https://www.youtube.com/watch?v=2Dx7gfU2nZU
 丝瓜炒鸡蛋,https://www.youtube.com/watch?v=2B7GtYOZPkA
 
-阿爷厨房,#genre#
+阿爷厨房$$$https://upload.wikimedia.org/wikipedia/zh/d/d9/The_Ahistoric_Grandpa_Cooking_Show.png,#genre#
 白玉元宝,https://www.youtube.com/watch?v=s_NnKOKiVOc
 百花蟹肉酿芥胆,https://www.youtube.com/watch?v=UFhmcFCWIVU
 蟹粉肉丝炒年糕,https://www.youtube.com/watch?v=n5yILVAHa8s

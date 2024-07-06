@@ -9,7 +9,7 @@
  * ext文件格式为json列表,name,url参数
  */
 const request_timeout = 5000;
-const VERSION = 'live2vod-cwc-20240628';
+const VERSION = 'live2vod-cwc-20240706';
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0';
 const __ext = {data_dict:{}};
 const tips = `\nVersion: ${VERSION}`;
@@ -104,15 +104,12 @@ const http = function (url, options = {}) {
     if (!url.startsWith('http')) {
         url = hostUrl + url;
     }
-    print("url=" + url);
-        
     if(!keys.includes('referer')){
         options.headers['Referer'] = getHome(url);
     }
     if(!keys.includes('user-agent')){
         options.headers['User-Agent'] = UA;
     }
-    console.log(JSON.stringify(options.headers));
     try {
         const res = req(url, options);
         // if(options.headers['Authorization']){
@@ -153,7 +150,6 @@ function init(ext) {
             data = http.get(data_url).json();
         }
     }
-    print(data);
     __ext.data = data;
 }
 
@@ -166,7 +162,7 @@ function home(filter) {
     return JSON.stringify({ 'class': classes,'filters': filter_dict});
 }
 
-function processCategory(_get_url) {
+function getHtml(_get_url) {
     let html;
     if(__ext.data_dict[_get_url]){
         html = __ext.data_dict[_get_url];
@@ -177,18 +173,27 @@ function processCategory(_get_url) {
         }
         __ext.data_dict[_get_url] = html;
     }
-    // let arr = html.match(/.*?[,，]#[\s\S].*?#/g);
+    return html;
+}
+
+function processCategory(_get_url) {
+    let html = getHtml(_get_url);
     let arr = html.match(/.*?[,，]#[\s\S].*?#/g); // 可能存在中文逗号
     let _list = [];
     try {
         arr.forEach(it=>{
             let vname = it.split(/[,，]/)[0];
             let vtab = it.match(/#(.*?)#/)[0];
+            let pic = "";
+            if (vname.includes("$$$")) {
+                pic = vname.split('$$$')[1];
+                vname = vname.split('$$$')[0];
+            }
             _list.push({
                 // vod_name:it.split(',')[0],
                 vod_name:vname,
                 vod_id:_get_url+'$'+vname,
-                vod_pic:def_pic,
+                vod_pic:pic,
                 //vod_remarks:vtab
             });
         });
@@ -227,19 +232,10 @@ function category(tid, pg, filter, extend) {
 function detail(tid) {
     let _get_url = tid.split('$')[0];
     let _tab = tid.split('$')[1];
-    let html;
-    if(__ext.data_dict[_get_url]){
-        html = __ext.data_dict[_get_url];
-    }else{
-        html = http.get(_get_url).text();
-        if(/#EXTM3U/.test(html)){
-            html = convertM3uToNormal(html);
-        }
-        __ext.data_dict[_get_url] = html;
-    }
-    // let a = new RegExp(`.*?${_tab},#[\\s\\S].*?#`);
-    let a = new RegExp(`.*?${_tab.replace('(','\\(').replace(')','\\)')}[,，]#[\\s\\S].*?#`);
-    let b = html.match(a)[0]; //Category Name,#genre#
+    let html = getHtml(_get_url);
+    //let a = new RegExp(`.*?${_tab.replace('(','\\(').replace(')','\\)')}[,，]#[\\s\\S].*?#`);
+    let a = new RegExp(`.*?${_tab.replace('(','\\(').replace(')','\\)')}${3}?.*?[,，]#[\\s\\S].*?#`);
+    let b = html.match(a)[0]; //Category Name$$$Image URL,#genre#
     let c = html.split(b)[1];
     if(c.match(/.*?[,，]#[\s\S].*?#/)){
         let d = c.match(/.*?[,，]#[\s\S].*?#/)[0];
@@ -260,13 +256,13 @@ function detail(tid) {
     let vod_play_from = vod_name;
     let vod = {
         vod_id: tid,
-        vod_name: vod_name+'|'+_tab,
+//        vod_name: vod_name+'|' +_tab,
+        vod_name: _tab,
         type_name: "直播列表",
         vod_pic: def_pic,
         vod_content: tid,
         vod_play_from: vod_play_from,
         vod_play_url: vod_play_url,
-        //vod_director: 'cwc',
         vod_remarks: tips
     };
 
@@ -281,7 +277,6 @@ function play(flag, id, flags) {
         'playUrl': '',
         'url': id
     };
-    print(vod);
     return JSON.stringify(vod);
 }
 

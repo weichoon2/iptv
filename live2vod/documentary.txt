@@ -1,4 +1,4 @@
-新村之后,#genre#
+新村之后$$$https://i.ytimg.com/vi/2bym923dx90/hqdefault.jpg,#genre#
 S1E1 文冬 Buntong,https://www.youtube.com/watch?v=R4ap9JxTgag
 S1E2 丹绒士拔 Tanjung Sepat,https://www.youtube.com/watch?v=uB5SylJJEo8
 S1E3 双溪比力 Sungai Pelek,https://www.youtube.com/watch?v=jZZDcdsn3dU
@@ -13,38 +13,38 @@ S1E11 直凉 Triang,https://www.youtube.com/watch?v=t684UM3bESk
 S1E12 锡米山 Sungai Chua,https://www.youtube.com/watch?v=_NLb8C4GBTg
 S1E13 煤炭山 Batu Arang,https://www.youtube.com/watch?v=zsHSpaEGgCw
 
-Cosmos: A Spacetime Odyssey/2014,#genre#
-01,https://m3u.haiwaikan.com/xm3u8/cf04d543a869826a073654051e3c07beca4438f052a3cc3649f8da21f9f8c6229921f11e97d0da21.m3u8
-02,https://m3u.haiwaikan.com/xm3u8/4864303365f0774f93eb95767b51a20febd49106a67c4385d3a03c18268d99289921f11e97d0da21.m3u8
-03,https://m3u.haiwaikan.com/xm3u8/6aaca61e2ba4e65c093d289cec12a32bff10739a017aa9f3b3141ef743968d329921f11e97d0da21.m3u8
-04,https://m3u.haiwaikan.com/xm3u8/c739f7c664f6717377834572d72749c0d1640903a184c66c8d41c9ad6c68fb109921f11e97d0da21.m3u8
-05,https://m3u.haiwaikan.com/xm3u8/c105ab3a264a3b7c0c863d8a309bbd266f4d3cad9e4484dba62b3b5a6f5473e89921f11e97d0da21.m3u8
-06,https://m3u.haiwaikan.com/xm3u8/536c7c5ff725ff40f79b4bd6c28e3ab39f35979e6703ea84a07639138c9620939921f11e97d0da21.m3u8
-07,https://m3u.haiwaikan.com/xm3u8/47b5cd33daacba0745ff2f24c356213cdd78c27e9458b3cd6a4b93f9a6ea29a99921f11e97d0da21.m3u8
-08,https://m3u.haiwaikan.com/xm3u8/a2e7fbbcf49bba176ed088a24477d8305ac391bbdbc54eb469d232ca3502d3e79921f11e97d0da21.m3u8
-09,https://m3u.haiwaikan.com/xm3u8/a03de691c470b48fe37c5319a64705a97d78ea0e7d34eb885a1882ff82f36fc99921f11e97d0da21.m3u8
-10,https://m3u.haiwaikan.com/xm3u8/6f1d87b1f938ad249d81171d6df579372607b0cd307ea648433eb1a3c2d2cded9921f11e97d0da21.m3u8
-11,https://m3u.haiwaikan.com/xm3u8/86a39da0d14d60a051fe017a5c3e0cbf14e0815ea5d21c11522a0c4044ce6b739921f11e97d0da21.m3u8
-12,https://m3u.haiwaikan.com/xm3u8/7c93e58cddacefcfbf2fef094f3a0434487b5b98239a281c3edda470b99e45b59921f11e97d0da21.m3u8
-13,https://m3u.haiwaikan.com/xm3u8/e641ced48ac5dec72e4bfc96b5fc3ac89c34d33b9071f9772a6f5685973099439921f11e97d0da21.m3u8
+Cosmos: A Spacetime Odyssey/2014$$$https://m.media-amazon.com/images/S/pv-target-images/76feb55b1f3a84799de5fd0dcad66663ae4db87c79255766a5a8fb813be1c432.jpg,#genre#
+01,https://m3u.nikanba.live/share/5dcb7a597c8a40fcbf04b2cb3d196ede.m3u8
+02,https://m3u.nikanba.live/share/a35cabc610e24705bc51124d5a2c8bea.m3u8
+03,https://m3u.nikanba.live/share/9669e8b7715045d7ade49243ee97cb0f.m3u8
+04,https://m3u.nikanba.live/share/03d63097a8ac4941948df70f0787f001.m3u8
+05,https://m3u.nikanba.live/share/58a67b30fb3342c3aa01a253d2fe3d62.m3u8
+06,https://m3u.nikanba.live/share/61479570104a48d780d6febf4b4ab1fd.m3u8
+07,https://m3u.nikanba.live/share/92c362c764694d1c9098e3bf01555f22.m3u8
+08,https://m3u.nikanba.live/share/4fb562c55e6049f8875343136651d2a6.m3u8
+09,https://m3u.nikanba.live/share/85f6683c72f345b2b4a871838f2e0807.m3u8
+10,https://m3u.nikanba.live/share/530168a1e8194b90b2579a5c616123c8.m3u8
+11,https://m3u.nikanba.live/share/8cde735626054039a379c9b1f3f7d876.m3u8
+12,https://m3u.nikanba.live/share/2a8bbb6bceaa4a9aaa2a3f1a75da5fe4.m3u8
+13,https://m3u.nikanba.live/share/bcfe3dfe73ae4d1aa511573764db4f6b.m3u8
 
-Cosmos: Possible Worlds/2020,#genre#
-01,https://m3u.haiwaikan.com/xm3u8/9fe23804986d2332882e46f5698e22accfc7e45d54fefe668ca5d266f93ffd6e9921f11e97d0da21.m3u8
-02,https://m3u.haiwaikan.com/xm3u8/23c5b68199eb2e38fa092ce414639294222d26bab833000e03339f626dd83d2e9921f11e97d0da21.m3u8
-03,https://m3u.haiwaikan.com/xm3u8/8af6798f73d6446a575e7a6bf331af6bf7fd329aa530bdae2ad89ac9146d8c419921f11e97d0da21.m3u8
-04,https://m3u.haiwaikan.com/xm3u8/4410dc4ccfeef1359cceec5c13ef0d0a929ff3c832d648de28291b0dfbf442c79921f11e97d0da21.m3u8
-05,https://m3u.haiwaikan.com/xm3u8/b902b16e69d009daf24d3b2bcf43a4074389554fe008a0f5758c05d564e8539c9921f11e97d0da21.m3u8
-06,https://m3u.haiwaikan.com/xm3u8/9677cbb327eeb1de2f34da624b46a781a3f96d71c0a51b6c68f60c9b2e387a329921f11e97d0da21.m3u8
-07,https://m3u.haiwaikan.com/xm3u8/a977b7b91a03d5487cf48c6b021856177dc39c2d518cf99c44b9d66f2b2375949921f11e97d0da21.m3u8
-08,https://m3u.haiwaikan.com/xm3u8/7fe9808bdea8d4b1e24a02de573900a79c52ec3e41e5ee4ca74d4398b77664439921f11e97d0da21.m3u8
-09,https://m3u.haiwaikan.com/xm3u8/440739463172b9828df4855855aaf5a50ed6ac5500871a9d9e1ad58691d0b8fa9921f11e97d0da21.m3u8
-10,https://m3u.haiwaikan.com/xm3u8/4537731423f2ceab259fa06a6cc7246b16ad2978934a1cbc510f8459af4e47c69921f11e97d0da21.m3u8
-11,https://m3u.haiwaikan.com/xm3u8/d175f4e92b33724e723cc5fd6e48e1bc49e4a2a075f226fdaf6ecd900e34ff5e9921f11e97d0da21.m3u8
-12,https://m3u.haiwaikan.com/xm3u8/80c127367e3199ed8e174315612c520a6177c19d24e9f96c4814b78c4d1b8d2d9921f11e97d0da21.m3u8
+Cosmos: Possible Worlds/2020$$$https://cdn1.edgedatg.com/aws/v2/natgeo/CosmosPossibleWorlds/showimages/9fae1ad2fd7aefe49521e5ad9c155dae/2688x1076-Q75_9fae1ad2fd7aefe49521e5ad9c155dae.jpg,#genre#
+01,https://m3u.nikanba.live/share/238eacaead454ffaaba43d5c6395bcdd.m3u8
+02,https://m3u.nikanba.live/share/7f1c1e28c19e47bf8aa370d2b3ae5744.m3u8
+03,https://m3u.nikanba.live/share/340cd5902bfb42009264a3cafe97fea0.m3u8
+04,https://m3u.nikanba.live/share/53a94242bc4949e5a02a053c0ab9500b.m3u8
+05,https://m3u.nikanba.live/share/c9032521f23e4f61819f0a7f3fee4014.m3u8
+06,https://m3u.nikanba.live/share/a2c5ea171af64d83991588f26d79e5ee.m3u8
+07,https://m3u.nikanba.live/share/7ef5c55ac7884e98bd4fb708011d47fa.m3u8
+08,https://m3u.nikanba.live/share/c417fd94cb2e4b288d595ca398dfb934.m3u8
+09,https://m3u.nikanba.live/share/39511faf914346b8bb0a79ab04002ff1.m3u8
+10,https://m3u.nikanba.live/share/94462da5d5804b5da3ba15b484d687ac.m3u8
+11,https://m3u.nikanba.live/share/9c963fc6a51f4d67b02cbb83eb286c50.m3u8
+12,https://m3u.nikanba.live/share/ff06035dd43b410ea56bc3dd6a9a22d6.m3u8
 
-The Planets/2019,#genre#
-01,https://m3u.haiwaikan.com/xm3u8/6698be0ccb1504fa166749fd30701bb278dbb2073c39c9c1f89541699ae575399921f11e97d0da21.m3u8
-02,https://m3u.haiwaikan.com/xm3u8/45cda00bbc768b10dce78fff4901a445bf283ac62365431ae1d24c057d3e64099921f11e97d0da21.m3u8
-03,https://m3u.haiwaikan.com/xm3u8/8a25ffcead6d3aef18fd2d8c05bef547e8b420d678716e0d0f687488d7024ad79921f11e97d0da21.m3u8
-04,https://m3u.haiwaikan.com/xm3u8/ae85781412bd66aed69cab29f9fef996a86858544c27d80743a96051fb7e15f99921f11e97d0da21.m3u8
-05,https://m3u.haiwaikan.com/xm3u8/ebb5d1df147f117ceef428ec0073bdd2c71c459923a4ba7b6c3084abb599b33b9921f11e97d0da21.m3u8
+The Planets/2019$$$https://cms.bbcearth.com/sites/default/files/2021-02/planets2.png,#genre#
+01,https://m3u.nikanba.live/share/c56c0c2a2f1948daaf01b802481bf92d.m3u8
+02,https://m3u.nikanba.live/share/ab4b8c96650c4008b323d09fe5e2d8de.m3u8
+03,https://m3u.nikanba.live/share/c3f235895cc445ff97fa6bd82d331e8f.m3u8
+04,https://m3u.nikanba.live/share/427ac567b8cc42ab8a074cca760933da.m3u8
+05,https://m3u.nikanba.live/share/2c518233b7fd4bbbad89385712bbef9e.m3u8
