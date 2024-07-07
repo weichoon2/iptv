@@ -1,4 +1,4 @@
-新村之后$$$https://i.ytimg.com/vi/2bym923dx90/hqdefault.jpg,#genre#
+新村之后$$$http://cwc.serv00.net/wallpaper/poster/village.jpg,#genre#
 S1E1 文冬 Buntong,https://www.youtube.com/watch?v=R4ap9JxTgag
 S1E2 丹绒士拔 Tanjung Sepat,https://www.youtube.com/watch?v=uB5SylJJEo8
 S1E3 双溪比力 Sungai Pelek,https://www.youtube.com/watch?v=jZZDcdsn3dU
@@ -13,7 +13,7 @@ S1E11 直凉 Triang,https://www.youtube.com/watch?v=t684UM3bESk
 S1E12 锡米山 Sungai Chua,https://www.youtube.com/watch?v=_NLb8C4GBTg
 S1E13 煤炭山 Batu Arang,https://www.youtube.com/watch?v=zsHSpaEGgCw
 
-Cosmos: A Spacetime Odyssey/2014$$$https://m.media-amazon.com/images/S/pv-target-images/76feb55b1f3a84799de5fd0dcad66663ae4db87c79255766a5a8fb813be1c432.jpg,#genre#
+Cosmos: A Spacetime Odyssey/2014$$$http://cwc.serv00.net/wallpaper/poster/cosmos1.jpg,#genre#
 01,https://m3u.nikanba.live/share/5dcb7a597c8a40fcbf04b2cb3d196ede.m3u8
 02,https://m3u.nikanba.live/share/a35cabc610e24705bc51124d5a2c8bea.m3u8
 03,https://m3u.nikanba.live/share/9669e8b7715045d7ade49243ee97cb0f.m3u8
@@ -28,7 +28,7 @@ Cosmos: A Spacetime Odyssey/2014$$$https://m.media-amazon.com/images/S/pv-target
 12,https://m3u.nikanba.live/share/2a8bbb6bceaa4a9aaa2a3f1a75da5fe4.m3u8
 13,https://m3u.nikanba.live/share/bcfe3dfe73ae4d1aa511573764db4f6b.m3u8
 
-Cosmos: Possible Worlds/2020$$$https://cdn1.edgedatg.com/aws/v2/natgeo/CosmosPossibleWorlds/showimages/9fae1ad2fd7aefe49521e5ad9c155dae/2688x1076-Q75_9fae1ad2fd7aefe49521e5ad9c155dae.jpg,#genre#
+Cosmos: Possible Worlds/2020$$$http://cwc.serv00.net/wallpaper/poster/cosmos2.jpg,#genre#
 01,https://m3u.nikanba.live/share/238eacaead454ffaaba43d5c6395bcdd.m3u8
 02,https://m3u.nikanba.live/share/7f1c1e28c19e47bf8aa370d2b3ae5744.m3u8
 03,https://m3u.nikanba.live/share/340cd5902bfb42009264a3cafe97fea0.m3u8
@@ -42,7 +42,7 @@ Cosmos: Possible Worlds/2020$$$https://cdn1.edgedatg.com/aws/v2/natgeo/CosmosPos
 11,https://m3u.nikanba.live/share/9c963fc6a51f4d67b02cbb83eb286c50.m3u8
 12,https://m3u.nikanba.live/share/ff06035dd43b410ea56bc3dd6a9a22d6.m3u8
 
-The Planets/2019$$$https://cms.bbcearth.com/sites/default/files/2021-02/planets2.png,#genre#
+The Planets/2019$$$http://cwc.serv00.net/wallpaper/poster/planets.jpg,#genre#
 01,https://m3u.nikanba.live/share/c56c0c2a2f1948daaf01b802481bf92d.m3u8
 02,https://m3u.nikanba.live/share/ab4b8c96650c4008b323d09fe5e2d8de.m3u8
 03,https://m3u.nikanba.live/share/c3f235895cc445ff97fa6bd82d331e8f.m3u8
