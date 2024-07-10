@@ -1,0 +1,5 @@
+{
+  "siteUrl" : "http://cj.ffzyapi.com/",
+  "api" : "api.php/provide/vod",
+  "excludeType": ["34"]
+}

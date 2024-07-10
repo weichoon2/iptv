@@ -1,0 +1,5 @@
+{
+  "siteUrl" : "https://json.heimuer.xyz/",
+  "api" : "api.php/provide/vod",
+  "excludeType": ["9"]
+}

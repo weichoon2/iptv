@@ -1,0 +1,5 @@
+{
+  "siteUrl" : "https://hw8.live/",
+  "api" : "api.php/provide/vod",
+  "excludeType": ["30", "58"]
+}
