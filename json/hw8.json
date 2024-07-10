@@ -1,5 +1,6 @@
 {
   "siteUrl" : "https://hw8.live/",
   "api" : "api.php/provide/vod",
-  "excludeType": ["30", "58"]
+  "excludeType": ["30", "58", "70"],
+  "sortRoot" : ["60", "20", "82"]
 }
