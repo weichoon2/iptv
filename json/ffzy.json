@@ -1,0 +1,6 @@
+{
+  "api" : "http://cj.ffzyapi.com/api.php/provide/vod",
+  "excludeType": ["24", "34"],
+  "excludeVod" : [],
+  "sortRoot" : ["2", "1", "3"]
+}

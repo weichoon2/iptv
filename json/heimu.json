@@ -1,0 +1,10 @@
+{
+  "api" : "https://json.heimuer.xyz/api.php/provide/vod",
+  "excludeType" : ["9", "28"],
+  "excludeVod" : [],
+  "sortRoot" : ["2", "1", "4"],
+  "sortFilter": [
+    { "catId" : 1, "sortOrder" : ["10", "7", "25"] },
+    { "catId" : 2, "sortOrder" : ["13", "14", "30"] }
+  ]
+}

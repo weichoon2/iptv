@@ -1,0 +1,20 @@
+{
+    "class": [
+        {
+            "type_name": "音乐",
+            "type_id": "music.txt"
+        },
+        {
+            "type_name": "美食",
+            "type_id": "cooking.txt"
+        },
+        {
+            "type_name": "电影",
+            "type_id": "movie.txt"
+        },
+        {
+            "type_name": "纪录",
+            "type_id": "documentary.txt"
+        }
+    ]
+}

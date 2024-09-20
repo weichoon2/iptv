@@ -1,0 +1,10 @@
+{
+  "api" : "https://jyzyapi.com/api.php/provide/vod",
+  "excludeType" : ["7","8","29","30"],
+  "excludeVod" : [],
+  "sortRoot" : ["1", "2", "27"],
+  "sortFilter": [
+    { "catId" : 1, "sortOrder" : ["20", "4", "3"] },
+    { "catId" : 2, "sortOrder" : ["9", "11", "12"] }
+  ]
+}

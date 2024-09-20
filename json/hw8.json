@@ -1,0 +1,6 @@
+{
+  "api" : "https://hw8.live/api.php/provide/vod",
+  "excludeType": ["30", "58", "70"],
+  "excludeVod" : [],
+  "sortRoot" : ["60", "20", "82"]
+}
