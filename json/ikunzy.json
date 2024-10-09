@@ -1,0 +1,10 @@
+{
+  "api" : "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+  "excludeType" : ["5","30","43","44"],
+  "excludeVod" : [],
+  "sortRoot" : ["2","1","3"],
+  "sortFilter": [
+    { "catId" : 1, "sortOrder" : ["6","7","9"] },
+    { "catId" : 2, "sortOrder" : ["23","24","26"] }
+  ]
+}
