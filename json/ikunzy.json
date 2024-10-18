@@ -1,7 +1,7 @@
 {
   "api" : "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
   "excludeType" : ["5","30","43","44","56"],
-  "excludeVod" : [],
+  "excludeClass" : ["同性"],
   "sortRoot" : ["2","1","3"],
   "sortFilter": [
     { "catId" : 1, "sortOrder" : ["6","7","9"] },

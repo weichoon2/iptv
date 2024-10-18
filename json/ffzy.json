@@ -1,6 +1,10 @@
 {
   "api" : "http://cj.ffzyapi.com/api.php/provide/vod",
-  "excludeType": ["24", "34"],
-  "excludeVod" : [],
-  "sortRoot" : ["2", "1", "3"]
+  "excludeType": ["24","34"],
+  "excludeClass" : ["同性"],
+  "sortRoot" : ["2","1","3"],
+  "sortFilter": [
+    { "catId" : 1, "sortOrder" : ["6","7","9"] },
+    { "catId" : 2, "sortOrder" : ["13","14","16"] }
+  ]
 }
