@@ -1,7 +1,7 @@
 {
   "api" : "https://api.tiankongapi.com/api.php/provide/vod/",
   "excludeType" : ["35","37","42","44"],
-  "excludeClass" : ["同性"],
+  "excludeClass" : ["同性","情色"],
   "sortRoot" : ["3","1","25"],
   "sortFilter": [
     { "catId" : 1, "sortOrder" : ["6","8","12"] },
