@@ -1,0 +1,10 @@
+{
+  "api" : "https://app.bfzyapi.com/api.php/provide/vod/",
+  "excludeType" : ["29","38","51","52","73"],
+  "excludeClass" : ["同性"],
+  "sortRoot" : ["30","20","45"],
+  "sortFilter": [
+    { "catId" : 20, "sortOrder" : ["21","24","22"] },
+    { "catId" : 30, "sortOrder" : ["31","33","32"] }
+  ]
+}
