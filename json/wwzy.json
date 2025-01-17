@@ -1,8 +1,0 @@
-{
-  "api" : "https://api.wwzy.tv/api.php/provide/vod",
-  "excludeType" : [],
-  "excludeClass" : [],
-  "parseUrl" : "",
-  "sortRoot" : [],
-  "sortFilter" : []
-}
