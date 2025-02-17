@@ -19,6 +19,10 @@
         {
             "type_name": "公开课",
             "type_id": "openClasses.txt"
+        },
+        {
+            "type_name": "种植",
+            "type_id": "plant.txt"
         }
     ]
 }
