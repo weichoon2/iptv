@@ -17,16 +17,16 @@
             "type_id": "documentary.txt"
         },
         {
-            "type_name": "种植",
-            "type_id": "plant.txt"
-        },
-        {
             "type_name": "公开课",
             "type_id": "openClasses.txt"
         },
         {
-            "type_name": "小说",
-            "type_id": "novel.txt"
+            "type_name": "文学",
+            "type_id": "literature.txt"
+        },
+        {
+            "type_name": "种植",
+            "type_id": "plant.txt"
         }
     ]
 }
