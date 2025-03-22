@@ -21,10 +21,6 @@
             "type_id": "openClasses.txt"
         },
         {
-            "type_name": "文学",
-            "type_id": "literature.txt"
-        },
-        {
             "type_name": "种植",
             "type_id": "plant.txt"
         }
