@@ -17,6 +17,10 @@
       "type_id": "food"
     },
     {
+      "type_name": "财经",
+      "type_id": "finance"
+    },
+    {
       "type_name": "公开课",
       "type_id": "openClasses"
     },
@@ -344,6 +348,58 @@
           {
             "n": "Ho Chak",
             "v": "8TV AND Ho Chak"
+          }
+        ]
+      },
+      {
+        "key": "playlist",
+        "name": "播放列表",
+        "value": [
+          {
+            "n": "播放列表",
+            "v": "Y"
+          }
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "key": "duration",
+        "name": "时长",
+        "value": [
+          {
+            "n": "全部",
+            "v": "0"
+          },
+          {
+            "n": "20分钟以上",
+            "v": "EgYIBRABGAI%253D"
+          },
+          {
+            "n": "4~20分钟",
+            "v": "EgYIBRABGAM%253D"
+          },
+          {
+            "n": "4分钟以下",
+            "v": "EgYIBRABGAE%253D"
+          }
+        ]
+      },
+      {
+        "key": "tid",
+        "name": "分类",
+        "value": [
+          {
+            "n": "全部",
+            "v": ""
+          },
+          {
+            "n": "小Lin说",
+            "v": "小Lin说"
+          },
+          {
+            "n": "USTV 非凡电视",
+            "v": "USTV 非凡電視"
           }
         ]
       },
