@@ -1,0 +1,10 @@
+{
+  "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
+  "excludeType": ["23","24","34","36"],
+  "excludeClass": ["同性","倫理片"],
+  "sortRoot": ["2","1","9"],
+  "sortFilter": [
+    { "catId": 1, "sortOrder": ["6","7","9"] },
+    { "catId": 2, "sortOrder": ["13","14","16"] }
+  ]
+}

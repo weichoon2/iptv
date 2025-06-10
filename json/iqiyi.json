@@ -1,0 +1,10 @@
+{
+  "api": "https://www.iqiyizyapi.com/api.php/provide/vod/",
+  "excludeType": ["6","25","33","38","39"],
+  "excludeClass": ["同性","倫理片"],
+  "sortRoot": ["8","7","9"],
+  "sortFilter": [
+    { "catId": 7, "sortOrder": ["10","11","13"] },
+    { "catId": 8, "sortOrder": ["26","27","29"] }
+  ]
+}
