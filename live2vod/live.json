@@ -23,6 +23,10 @@
         {
             "type_name": "种植",
             "type_id": "plant.txt"
+        },
+        {
+            "type_name": "听书",
+            "type_id": "novel.txt"
         }
     ]
 }
