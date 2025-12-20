@@ -99,6 +99,7 @@ class Spider(Spider):
             result["url"] = real_url
         else:
             result["url"] = f"{self.host}/play/{id}/"
+        result["header"] = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
         return result
 
     def _get_filters(self):
