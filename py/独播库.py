@@ -95,7 +95,7 @@ class Spider(Spider):
         }
         # 2026-02-12 cwc
         if '同性' in data['Scenario']:
-            return ''
+            return {'list': ''}
         else:
             return {'list': [video]}
 
