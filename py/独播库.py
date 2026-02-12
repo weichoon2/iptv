@@ -93,7 +93,11 @@ class Spider(Spider):
             'vod_play_url': '#'.join(play_urls),
             'type_name': f"{data['Genre']},{data['Scenario']},{data['Language']}"
         }
-        return {'list': [video]}
+        # 2026-02-12 cwc
+        if '同性' in data['Scenario']:
+            return ''
+        else:
+            return {'list': [video]}
 
     def playerContent(self, flag, video_id, vip_flags):
         res = self.fetch(self.sign(f"{self.host}{video_id}"), headers=self.headers, verify=False).json()
