@@ -139,7 +139,7 @@ class Spider(Spider):
 
         videos.append({
             "vod_id": fenge[0],
-            "vod_content": f"{fenge1[0]}-{fenge[1]}  id: {fenge[0]}",
+            "vod_content": f"id: {fenge[0]}<br>{fenge1[0]}-{fenge[1]}",
             "vod_play_from": "Netease",
             "vod_play_url": f"{fenge1[1]}${fenge[0]}@2#FLAC${fenge[0]}@3"})
 
